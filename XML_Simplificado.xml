@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<evolucion_Covid-19>
+  <!-- Datos Covid por rango de edad -->
+  <casosPositivos>
+    <porRangoDeEdad>
+      <rango_0-9 total_poblacion="195423" total_positivos="3483">
+        <hombres poblacion="1000065" positivos="1765"></hombres>
+        <mujeres poblacion="95358" positivos="1718"></mujeres>
+      </rango_0-9>
+      <rango_10-19 total_poblacion="206343" total_positivos="5877">
+        <hombres poblacion="106463" positivos="3014"></hombres>
+        <mujeres poblacion="99880" positivos="2862"></mujeres>
+      </rango_10-19>
+      <rango_20-29 total_poblacion="194050" total_positivos="8954">
+        <hombres poblacion="98515" positivos="4232"></hombres>
+        <mujeres poblacion="95535" positivos="4718"></mujeres>
+      </rango_20-29>
+      <rango_30-39 total_poblacion="266369" total_positivos="9114">
+        <hombres poblacion="133638" positivos="4084"></hombres>
+        <mujeres poblacion="132731" positivos="5024"></mujeres>
+      </rango_30-39>
+      <rango_40-49 total_poblacion="358785" total_positivos="11212">
+        <hombres poblacion="181632" positivos="5139"></hombres>
+        <mujeres poblacion="177153" positivos="6071"></mujeres>
+      </rango_40-49>
+      <rango_50-59 total_poblacion="335098" total_positivos="11252">
+        <hombres poblacion="164820" positivos="5127"></hombres>
+        <mujeres poblacion="170278" positivos="6121"></mujeres>
+      </rango_50-59>
+      <rango_60-69 total_poblacion="272250" total_positivos="7139">
+        <hombres poblacion="129903" positivos="3595"></hombres>
+        <mujeres poblacion="142347" positivos="3535"></mujeres>
+      </rango_60-69>
+      <rango_70-79 total_poblacion="202172" total_positivos="4811">
+        <hombres poblacion="91022" positivos="2478"></hombres>
+        <mujeres poblacion="111150" positivos="2333"></mujeres>
+      </rango_70-79>
+      <rango_80-89 total_poblacion="127540" total_positivos="4643">
+        <hombres poblacion="1743" positivos="1765"></hombres>
+        <mujeres poblacion="79598" positivos="2899"></mujeres>
+      </rango_80-89>
+      <rango_90-99 total_poblacion="29987" total_positivos="2340">
+        <hombres poblacion="7597" positivos="532"></hombres>
+        <mujeres poblacion="22390" positivos="1808"></mujeres>
+      </rango_90-99>
+    </porRangoDeEdad>
+  </casosPositivos>
+  <!-- Muertes por semana -->
+  <falleciods>
+    <porFecha>
+      <itemPorFecha fecha="2020-04-08T21:00:00Z" contadorFallecidos="40" fallecidos="40"/>
+      <itemPorFecha fecha="2020-04-15T21:00:00Z" contadorFallecidos="309" fallecidos="33"/>
+      <itemPorFecha fecha="2020-04-22T21:00:00Z" contadorFallecidos="486" fallecidos="18"/>
+      <itemPorFecha fecha="2020-04-29T21:00:00Z" contadorFallecidos="586" fallecidos="11"/>
+      <itemPorFecha fecha="2020-05-06T21:00:00Z" contadorFallecidos="671" fallecidos="6"/>
+      <itemPorFecha fecha="2020-05-13T21:00:00Z" contadorFallecidos="731" fallecidos="1"/>
+      <itemPorFecha fecha="2020-05-20T21:00:00Z" contadorFallecidos="765" fallecidos="5"/>
+      <itemPorFecha fecha="2020-05-27T21:00:00Z" contadorFallecidos="799" fallecidos="1"/>
+      <itemPorFecha fecha="2020-06-03T21:00:00Z" contadorFallecidos="827" fallecidos="4"/>
+      <itemPorFecha fecha="2020-06-10T21:00:00Z" contadorFallecidos="856" fallecidos="3"/>
+      <itemPorFecha fecha="2020-06-17T21:00:00Z" contadorFallecidos="866" fallecidos="1"/>
+      <itemPorFecha fecha="2020-06-24T21:00:00Z" contadorFallecidos="873" fallecidos="0"/>
+      <itemPorFecha fecha="2020-07-01T21:00:00Z" contadorFallecidos="882" fallecidos="4"/>
+      <itemPorFecha fecha="2020-07-08T21:00:00Z" contadorFallecidos="882" fallecidos="0"/>
+      <itemPorFecha fecha="2020-07-15T21:00:00Z" contadorFallecidos="885" fallecidos="0"/>
+      <itemPorFecha fecha="2020-07-22T21:00:00Z" contadorFallecidos="886" fallecidos="0"/>
+      <itemPorFecha fecha="2020-07-30T21:00:00Z" contadorFallecidos="889" fallecidos="1"/>
+      <itemPorFecha fecha="2020-08-06T21:00:00Z" contadorFallecidos="895" fallecidos="1"/>
+      <itemPorFecha fecha="2020-08-13T21:00:00Z" contadorFallecidos="906" fallecidos="1"/>
+      <itemPorFecha fecha="2020-08-19T21:00:00Z" contadorFallecidos="915" fallecidos="4"/>
+      <itemPorFecha fecha="2020-08-26T21:00:00Z" contadorFallecidos="953" fallecidos="10"/>
+      <itemPorFecha fecha="2020-09-02T21:00:00Z" contadorFallecidos="992" fallecidos="6"/>
+      <itemPorFecha fecha="2020-09-09T21:00:00Z" contadorFallecidos="1043" fallecidos="5"/>
+      <itemPorFecha fecha="2020-09-16T21:00:00Z" contadorFallecidos="1116" fallecidos="14"/>
+      <itemPorFecha fecha="2020-09-23T21:00:00Z" contadorFallecidos="1191" fallecidos="10"/>
+      <itemPorFecha fecha="2020-09-30T21:00:00Z" contadorFallecidos="1248" fallecidos="9"/>
+      <itemPorFecha fecha="2020-10-07T21:00:00Z" contadorFallecidos="1284" fallecidos="3"/>
+      <itemPorFecha fecha="2020-10-14T21:00:00Z" contadorFallecidos="1334" fallecidos="7"/>
+      <itemPorFecha fecha="2020-10-21T21:00:00Z" contadorFallecidos="1383" fallecidos="6"/>
+      <itemPorFecha fecha="2020-10-25T22:00:00Z" contadorFallecidos="1413" fallecidos="4"/>
+    </porFecha>
+  </falleciods>
+  <!-- Casos totales por ciudad -->
+  <ciudades>
+    <ciudad poblacion="343430" totalPositivos="13631" positivosPorCada100MilHabitantes="3969" totalFallecidos="478" tasaDeMortalidad="3.5">
+      <nombre>Bilbao</nombre>
+    </ciudad>
+    <ciudad poblacion="98497" totalPositivos="3289" positivosPorCada100MilHabitantes="3339.2" totalFallecidos="114" tasaDeMortalidad="3.5">
+      <nombre>Barakaldo</nombre>
+    </ciudad>
+    <ciudad poblacion="77088" totalPositivos="2219" positivosPorCada100MilHabitantes="2878.5" totalFallecidos="67" tasaDeMortalidad="3.0">
+      <nombre>Getxo</nombre>
+    </ciudad>
+    <ciudad poblacion="45690" totalPositivos="1266" positivosPorCada100MilHabitantes="2770.8" totalFallecidos="44" tasaDeMortalidad="3.5">
+      <nombre>Santurtzi</nombre>
+    </ciudad>
+  </ciudades>
+  <!-- PCRs Positivos -->
+  <pcrPositivos>
+    <positiveCount fecha="2020-03-01T22:00:00Z">1</positiveCount>
+    <positiveCount fecha="2020-03-08T22:00:00Z">47</positiveCount>
+    <positiveCount fecha="2020-03-15T22:00:00Z">100</positiveCount>
+    <positiveCount fecha="2020-03-22T22:00:00Z">311</positiveCount>
+    <positiveCount fecha="2020-03-29T21:00:00Z">245</positiveCount>
+    <positiveCount fecha="2020-04-05T21:00:00Z">195</positiveCount>
+    <positiveCount fecha="2020-04-11T21:00:00Z">158</positiveCount>
+    <positiveCount fecha="2020-04-17T21:00:00Z">57</positiveCount>
+    <positiveCount fecha="2020-04-24T21:00:00Z">47</positiveCount>
+    <positiveCount fecha="2020-05-01T21:00:00Z">11</positiveCount>
+    <positiveCount fecha="2020-05-08T21:00:00Z">32</positiveCount>
+    <positiveCount fecha="2020-05-15T21:00:00Z">15</positiveCount>
+    <positiveCount fecha="2020-05-22T21:00:00Z">15</positiveCount>
+    <positiveCount fecha="2020-05-29T21:00:00Z">4</positiveCount>
+    <positiveCount fecha="2020-06-05T21:00:00Z">6</positiveCount>
+    <positiveCount fecha="2020-06-12T21:00:00Z">16</positiveCount>
+    <positiveCount fecha="2020-06-19T21:00:00Z">13</positiveCount>
+    <positiveCount fecha="2020-06-26T21:00:00Z">7</positiveCount>
+    <positiveCount fecha="2020-07-03T21:00:00Z">4</positiveCount>
+    <positiveCount fecha="2020-07-10T21:00:00Z">9</positiveCount>
+    <positiveCount fecha="2020-07-17T21:00:00Z">27</positiveCount>
+    <positiveCount fecha="2020-07-24T21:00:00Z">114</positiveCount>
+    <positiveCount fecha="2020-07-31T21:00:00Z">86</positiveCount>
+    <positiveCount fecha="2020-08-07T21:00:00Z">156</positiveCount>
+    <positiveCount fecha="2020-08-14T21:00:00Z">353</positiveCount>
+    <positiveCount fecha="2020-08-21T21:00:00Z">364</positiveCount>
+    <positiveCount fecha="2020-08-28T21:00:00Z">453</positiveCount>
+    <positiveCount fecha="2020-09-04T21:00:00Z">409</positiveCount>
+    <positiveCount fecha="2020-09-11T21:00:00Z">513</positiveCount>
+    <positiveCount fecha="2020-09-18T21:00:00Z">290</positiveCount>
+    <positiveCount fecha="2020-09-25T21:00:00Z">387</positiveCount>
+    <positiveCount fecha="2020-10-01T21:00:00Z">354</positiveCount>
+    <positiveCount fecha="2020-10-08T21:00:00Z">272</positiveCount>
+    <positiveCount fecha="2020-10-15T21:00:00Z">363</positiveCount>
+    <positiveCount fecha="2020-10-22T21:00:00Z">657</positiveCount>
+    <positiveCount fecha="2020-10-29T22:00:00Z">940</positiveCount>
+  </pcrPositivos>
+</evolucion_Covid-19>
