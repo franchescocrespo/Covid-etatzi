@@ -23,7 +23,7 @@ google.charts.load('current', {'packages':['corechart']});
   
         // The intervals data as narrow lines (useful for showing raw source data)
         var options_lines = {
-            title: 'Fallecidos',
+            title: 'Fallecidos por dia en relación con sus sintomas',
             curveType: 'function',
             lineWidth: 5,
             interval: {
